@@ -1225,3 +1225,17 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 92.236.38.148 at 2020-10-20 21:55:27 +0000
+Processing by StaticController#about as HTML
+  Rendering static/some_page.html.erb
+  Rendered static/some_page.html.erb (0.4ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 92.236.38.148 at 2020-10-20 21:55:32 +0000
+Processing by StaticController#about as HTML
+  Rendering static/some_page.html.erb
+  Rendered static/some_page.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
